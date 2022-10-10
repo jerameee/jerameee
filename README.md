@@ -1,5 +1,5 @@
 # ![p1](https://user-images.githubusercontent.com/43865066/191625903-0a2a9213-cfcb-4c33-8f84-5977275354e4.png) Jeremy Fortenberry
-**`📊 💻 Business Analyst | Project Manager | Problem Solver`** <br />
+**`📊 💻 Business Systems Analyst | Technical Project Manager | Problem Solver`** <br />
 
 **`📍You can find me at the intersection of Business and Technology`** 
 
