@@ -1,4 +1,4 @@
-# ![p1](https://user-images.githubusercontent.com/43865066/191625903-0a2a9213-cfcb-4c33-8f84-5977275354e4.png) Jeremy Fortenberry
+# ![p1](https://user-images.githubusercontent.com/43865066/191625903-0a2a9213-cfcb-4c33-8f84-5977275354e4.png) Jeremy Jones
 **`📊 💻 Cloud | Identity & Access Management | Identity Governance | IaC | API Lifecycle Management`** <br />
 
 **`📍You can find me at the intersection of Business and Technology`** 
