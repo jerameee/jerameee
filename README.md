@@ -1,12 +1,12 @@
 # ![p1](https://user-images.githubusercontent.com/43865066/191625903-0a2a9213-cfcb-4c33-8f84-5977275354e4.png) Jeremy Jones
-**`📊 💻 Cloud | Identity & Access Management | Identity Governance | IaC | API Lifecycle Management`** <br />
+**`📊 💻 Scrum Product Owner | Agile Product Management | API Lifecycle Management`** <br />
 
 **`📍You can find me at the intersection of Business and Technology`** 
 
 
-I am a business and technology professional with a passion for working closely with and connecting cross-functional teams, facilitating effective communication and collaboration, automating processes, and integrating systems to drive positive business outcomes. I have developed a talent for uncovering crucial "hidden" information to solve problems and bringing clarity out of complexity. 
+My areas of expertise include product lifecycle management, product strategy, requirement analysis, dev eloping acceptance criteria, systems integrations, technical project management and API lifecycle management. Through my diverse professional experience I have developed a talent for uncovering crucial "hidden" information to solve problems and bringing clarity out of complexity. 
 
-I have built and refined a unique depth and breadth of skills in support of this in several crucial areas, including but not limited to identity & access management (IAM), identity governance administration (IGA), API lifecycle management and leveraging IaC tools to provision and automate cloud infrastructure.
+I have also obtained certifications in Certified Scrum Product Owner and (ISC)² Candidate, demonstrating my commitment to continuous learning and improvement.
 
 ---
 
